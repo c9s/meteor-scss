@@ -6,7 +6,7 @@ This is a Sass build plugin for Meteor. It compiles Sass files with node-sass an
 Install using Meteor's package management system:
 
 ```bash
-> meteor add fourseven:scss
+> meteor add c9s:scss
 ```
 
 If you want to use it for your package, add it in your package control file's
@@ -15,7 +15,7 @@ If you want to use it for your package, add it in your package control file's
 ```javascript
 Package.onUse(function (api) {
   ...
-  api.use('fourseven:scss');
+  api.use('c9s:scss');
   ...
 });
 ```
@@ -23,7 +23,7 @@ Package.onUse(function (api) {
 ## Compatibility
 <table>
 <thead>
-<tr><th>Meteor Version</th><th>Recommended fourseven:scss version</th></tr>
+<tr><th>Meteor Version</th><th>Recommended c9s:scss version</th></tr>
 </thead>
 <tbody>
 <tr><td>1.0 - 1.1</td><td>3.2.0</td></tr>
