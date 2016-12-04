@@ -2,6 +2,7 @@ babel-compiler@6.9.1
 babel-runtime@0.1.11
 base64@1.0.9
 binary-heap@1.0.9
+c9s:scss@3.13.0
 caching-compiler@1.1.7
 callback-hook@1.0.9
 check@1.0.6
@@ -10,12 +11,11 @@ diff-sequence@1.0.6
 ecmascript@0.5.8
 ecmascript-runtime@0.3.14
 ejson@1.0.12
-fourseven:scss@3.9.0
 geojson-utils@1.0.9
 id-map@1.0.8
 jquery@1.0.2
 json@1.0.3
-local-test:fourseven:scss@3.9.0
+local-test:c9s:scss@3.13.0
 logging@1.0.14
 meteor@1.2.17
 minimongo@1.0.17

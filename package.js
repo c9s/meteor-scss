@@ -1,6 +1,6 @@
 Package.describe({
   summary: 'Style with attitude. Sass and SCSS support for Meteor.js.',
-  version: "3.13.0",
+  version: "3.13.0_1",
   git: "https://github.com/c9s/meteor-scss.git",
   name: "c9s:scss"
 });
